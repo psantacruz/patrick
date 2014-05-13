@@ -1,3 +1,4 @@
 Mercury
+Venus # cloudy with a chance of sulfuric acid
 Earth
-Pluto
+Pluto # is this still a planet?
