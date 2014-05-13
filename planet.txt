@@ -1,4 +1,4 @@
 Mercury # small and speedy
 Venus # cloudy with a chance of sulfuric acid
-Jupiter # probably too expensive
+Jupiter # has two moons
 Earth
